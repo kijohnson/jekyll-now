@@ -13,4 +13,4 @@ Occupation: Cancer Epidemiologist and Associate Professor at Washington Universi
 
 ### Contact me
 
-[email@domain.com](mailto:kijohnson@wustl.edu)
+[kijohnson@wustl.edu](mailto:kijohnson@wustl.edu)

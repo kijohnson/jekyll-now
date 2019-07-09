@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I am Kim Johnson, MPH, PhD
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hobbies: Improv, Running, Reading books
+Occupation: Cancer Epidemiologist and Associate Professor at Washington University in St. Louis
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:kijohnson@wustl.edu)

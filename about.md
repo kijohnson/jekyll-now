@@ -14,3 +14,6 @@ Hi! I am Kim Johnson, MPH, PhD
 ### Contact me
 
 [kijohnson@wustl.edu](mailto:kijohnson@wustl.edu)
+
+###Bio
+[Faculty Bio](https://brownschool.wustl.edu/Faculty-and-Research/Pages/Kimberly-Johnson.aspx)

@@ -4,7 +4,9 @@ title: Courses
 permalink: /Courses/
 ---
 
-Hi! I am Kim Johnson, MPH, PhD
-
-### Courses I teach
+### Courses 
+Advanced Data Analysis
+Foundations of Public Health: Epidemiology
+Introduction to R
+Cancer Epidemiology
 

@@ -20,8 +20,8 @@ Hi! I am Kim Johnson, MPH, PhD
 ### Bio 
 [Faculty Bio](https://brownschool.wustl.edu/Faculty-and-Research/Pages/Kimberly-Johnson.aspx)
 
-### CV
-[CV](https://github.com/kijohnson/kijohnson.github.io/blob/master/KJohnsonCV(COG).pdf)
+
+#[CV](https://github.com/kijohnson/kijohnson.github.io/blob/master/KJohnsonCV(COG).pdf)
 
 ### CV 2
 [CV](http://kijohnson.github.io/kijohnson.github.io/KJohnsonCV(COG).pdf)

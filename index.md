@@ -1,5 +1,6 @@
 ---
 layout: default
 title: Kim Johnson, MPH, PhD
-permalink:/about/
 ---
+
+hello there!

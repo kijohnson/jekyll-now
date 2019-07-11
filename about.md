@@ -24,4 +24,4 @@ Hi! I am Kim Johnson, MPH, PhD
 [CV](https://github.com/kijohnson/kijohnson.github.io/blob/master/KJohnsonCV(COG).pdf)
 
 ### CV 2
-[Intro.pdf](http://kijohnson.github.io/kijohnson.github.io/KJohnsonCV(COG).pdf)
+[CV](http://kijohnson.github.io/kijohnson.github.io/KJohnsonCV(COG).pdf)

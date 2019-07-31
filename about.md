@@ -4,17 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Hi! I am Kim Johnson, MPH, PhD 
-
 ![_config.yml]({{ site.baseurl }}/images/DSC_0202.JPG)
 
-### More Information
+## Occupation 
+Cancer Epidemiologist and Associate Professor at Washington University in St. Louis 
 
-**Occupation:** Cancer Epidemiologist and Associate Professor at Washington University in St. Louis 
-
-**Hobbies:** Improv, Running, Reading books  
+## Hobbies
+Improv, Running, Reading books  
  
-
 ### Contact me
 [kijohnson@wustl.edu](mailto:kijohnson@wustl.edu)
 

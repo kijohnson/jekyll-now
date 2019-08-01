@@ -12,6 +12,11 @@
 /**************/
 /* BASE RULES */
 /**************/
+.image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
+}
 
 img[src*='#center'] { 
     display: block;
